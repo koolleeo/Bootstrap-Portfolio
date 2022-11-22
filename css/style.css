@@ -1,0 +1,23 @@
+/* All hyperlinks should have a hover effect. */
+/* All buttons should display a box shadow upon hover. */
+
+:root {
+    --light-clr: #9F73AB;
+}
+
+img {
+    cursor: pointer;
+}
+
+a:hover {
+    color: var(--light-clr);
+    font-size: xx-large;
+}
+
+button:hover {
+    box-shadow: 10px 10px 5px #aaaaaa;
+}
+
+i {
+    margin-right: 5px;
+}
