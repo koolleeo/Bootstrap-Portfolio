@@ -11,7 +11,6 @@ Using Bootstrap, create a portfolio site with the following items:
 * Links should navigate to the appropriate sections
 * A jumbotron featuring your picture, your name, and any other information you'd like to include.
 * A section displaying your work in grid.
-* If you need to use placeholder image use: https://placehold.co/
 * Use bootstrap cards for each project. The description should give a brief overview of the work.
 * A skills section. List out the skills you expect to learn from the bootcamp.
 * An about / contact section. An "About Me" section in the same row.
@@ -22,3 +21,5 @@ Using Bootstrap, create a portfolio site with the following items:
 * Deploy your new Bootstrap-powered portfolio to GitHub Pages.
 
 ## Mock-Up
+
+![image](https://user-images.githubusercontent.com/86853558/203429545-a069bf3c-7e55-488b-b430-2ef19decd925.png)
